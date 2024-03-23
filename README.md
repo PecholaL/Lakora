@@ -1,6 +1,7 @@
 # Lakora README
 
 ## Lakora
+[Theme] A Chinese-color-scheme　for VSC.
 
 Inspired by the cherry blossom season at Jiming Temple, Nanking.  
 古寺，城牆，玄武湖，櫻花  
