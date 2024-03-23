@@ -26,8 +26,11 @@
 		"tab.inactiveBackground": "#0a1218",
 		// statusbar
 		"statusBar.background": "#E0ACA4",
-		"statusBar.foreground": "#334358"
-
+		"statusBar.foreground": "#334358",
+		"statusBar.noFolderBackground": "#E0ACA4",
+		"statusBar.noFolderForeground": "#334358",
+		"statusBar.debuggingBackground": "#E0ACA4",
+		"statusBar.debuggingForeground": "#334358"
 	},
 	"tokenColors": [
 		{
