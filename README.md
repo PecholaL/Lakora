@@ -16,3 +16,7 @@ Repository: [Lakora](https://github.com/PecholaL)
 If you have any advice, feel free to create an issue via [github page](https://github.com/PecholaL/Lakora/issues). :)
 
 **Enjoy!**
+
+
+## Updates
+* v0.0.1 -> v0.0.3 -- 23rd/March/2024 -- {Releasing test}/{Beta test.}/{Update statusBar.noFolderBackground, statusBar.noFolderForeground, statusBar.debuggingBackground, statusBar.debuggingForeground}
