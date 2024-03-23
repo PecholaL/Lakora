@@ -25,12 +25,10 @@
 		"publisherId": "7edb65ea-cc12-4993-b256-129be9c45ef7",
 		"publisherDisplayName": "Pechola",
 		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"isPreReleaseVersion": false,
 		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1711173990670,
-		"pinned": false,
-		"preRelease": false
+		"installedTimestamp": 1711203161996,
+		"pinned": false
 	}
 }
