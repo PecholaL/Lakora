@@ -1,10 +1,27 @@
 {
 	"name": "Lakora",
 	"colors": {
-		"editor.background": "#012627",
+		"editor.background": "#283641",
 		"editor.foreground": "#334358",
+		// activitybar
+		"activityBar.background": "#B17843",
+		"activityBar.foreground": "#283641",
+		"activityBar.activeBackground": "#b06118",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#E0ACA4"
+		// sidebar
+		"sideBar.background": "#9C3622",
+		"sideBarSectionHeader.background": "#802a19",
+		"sideBarSectionHeader.foreground": "#B17843",
+		"sideBar.foreground": "#feb673",
+		"sideBarTitle.foreground": "#E0ACA4",
+		"sideBar.border": "#2A5AAF",
+		// tab
+		"tab.activeBackground": "#283641",
+		"tab.inactiveBackground": "#0a1218",
+		// statusbar
+		"statusBar.background": "#E0ACA4",
+		"statusBar.foreground": "#334358"
+
 	},
 	"tokenColors": [
 		{
@@ -14,8 +31,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#E0ACA4"  // K
 			}
 		},
 		{
@@ -25,7 +41,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#BC9785"  // K
 			}
 		},
 		{
@@ -99,7 +115,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00914E"  // K
 			}
 		},
 		{
@@ -108,7 +124,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#F4DDA0"  // K
 			}
 		},
 		{
