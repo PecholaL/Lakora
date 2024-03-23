@@ -1,16 +1,17 @@
-# lakora README
+# Lakora README
 
-## Working with Markdown
+## Lakora
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Inspired by the cherry blossom season at Jiming Temple, Nanking.  
+古寺，城牆，玄武湖，櫻花  
+night, ancient temple, city wall, Xuanwu Lake, cherry blossom  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Link
+Creator: [Pechola L](https://github.com/PecholaL)  
+Repository: [Lakora](https://github.com/PecholaL)  
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Advisement
+If you have any advice, feel free to create an issue via [github page](https://github.com/PecholaL/Lakora/issues). :)
 
 **Enjoy!**
