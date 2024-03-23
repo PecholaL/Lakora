@@ -3,7 +3,7 @@
 	"publisher": "pechola1918",
 	"icon": "Lakora_logo.png",
 	"displayName": "Lakora",
-	"description": "A plain Chinese-color-scheme for VSC",
+	"description": "A plain Chinese-color-scheme for VSC. ",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.87.0"
