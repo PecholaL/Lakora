@@ -2,7 +2,14 @@
 	"name": "Lakora",
 	"colors": {
 		"editor.background": "#283641",
-		"editor.foreground": "#334358",
+		"editor.foreground": "#E3C297",
+		// terminal
+		"terminal.background": "#E0ACA4",
+		"terminal.foreground": "#912F22",
+		"terminal.selectionForeground": "#912F22",
+		"terminal.tab.activeBorder": "#912F22",
+		// output
+		// "outputView.background": "#E0ACA4",
 		// activitybar
 		"activityBar.background": "#B17843",
 		"activityBar.foreground": "#283641",
@@ -14,7 +21,6 @@
 		"sideBarSectionHeader.foreground": "#B17843",
 		"sideBar.foreground": "#feb673",
 		"sideBarTitle.foreground": "#E0ACA4",
-		"sideBar.border": "#2A5AAF",
 		// tab
 		"tab.activeBackground": "#283641",
 		"tab.inactiveBackground": "#0a1218",
@@ -91,7 +97,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#C7CD91" // K
 			}
 		},
 		{
@@ -181,7 +187,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#E6B141"  // K
 			}
 		},
 		{
