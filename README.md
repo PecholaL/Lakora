@@ -16,7 +16,7 @@ Creator: [Pechola L](https://github.com/PecholaL)
 Repository: [Lakora](https://github.com/PecholaL)  
 
 ## Advisement
-If you have any advice, feel free to create an issue via [github page](https://github.com/PecholaL/Lakora/issues). :)
+If you have any advice, feel free to create an issue via [github](https://github.com/PecholaL/Lakora/issues). :)
 
 **Enjoy!**
 
