@@ -1,5 +1,6 @@
 # Lakora README
 
+
 ## About Lakora
 [Theme] A plain Chinese-color-scheme for VSC.
 
@@ -7,6 +8,7 @@ Inspired by the cherry blossom season at Jiming Temple, Nanking.
 古寺，城牆，玄武湖，櫻花  
 ancient temple, city wall, Xuanwu Lake, cherry blossom  
 
+![lakora-阴](src/lakora-dark.png)
 
 ## Links
 Creator: [Pechola L](https://github.com/PecholaL)  
