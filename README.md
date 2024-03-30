@@ -25,4 +25,4 @@ If you have any advice, feel free to create an issue via [github](https://github
 ## Updates
 * v0.0.1 -> v0.0.3 -- 23rd/March/2024 -- {Releasing test}/{Beta test}/{Update statusBar.noFolderBackground, statusBar.noFolderForeground, statusBar.debuggingBackground, statusBar.debuggingForeground}
 
-* v0.0.4 -- 30th/March/2024 -- {Update some details of the color scheme, adjust the element colors of Java}
+* v0.0.4 -- 30th/March/2024 -- {Update some details of the color scheme, adjust the element colors of Java, Python}
