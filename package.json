@@ -25,14 +25,16 @@
 		"publisherId": "7edb65ea-cc12-4993-b256-129be9c45ef7",
 		"publisherDisplayName": "Pechola",
 		"targetPlatform": "undefined",
-		"updated": false,
+		"updated": true,
 		"isPreReleaseVersion": false,
 		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1711203161996,
-		"pinned": false
+		"installedTimestamp": 1711778329711,
+		"pinned": false,
+		"isApplicationScoped": false,
+		"preRelease": false
 	},
 	"repository": {
 		"type": "git",
 		"url": "github.com/PecholaL/Lakora"
-	  }
+	}
 }
