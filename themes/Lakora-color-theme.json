@@ -2,7 +2,9 @@
 	"name": "Lakora",
 	"colors": {
 		"editor.background": "#283641",
-		"editor.foreground": "#E3C297",
+		// "editor.foreground": "#E3C297", //v0.0.3
+		"editor.foreground": "#ff89a1",
+		"editor.selectionBackground": "#50442b",
 		// terminal
 		"terminal.background": "#E0ACA4",
 		"terminal.foreground": "#912F22",
@@ -14,7 +16,8 @@
 		"activityBar.background": "#B17843",
 		"activityBar.foreground": "#283641",
 		"activityBar.activeBackground": "#b06118",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#ff7a95",
+		"activityBarBadge.foreground": "#0f0445",
 		// sidebar
 		"sideBar.background": "#9C3622",
 		"sideBarSectionHeader.background": "#802a19",
@@ -40,7 +43,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#E0ACA4"  // K
+				// "foreground": "#E0ACA4"  // K v0.0.3
+				"foreground": "#42ffc6"
 			}
 		},
 		{
@@ -50,7 +54,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#BC9785"  // K
+				"foreground": "#ffb28b"  // K
 			}
 		},
 		{
@@ -73,14 +77,30 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword",
 			"scope": [
 				"keyword",
-				"storage.type",
-				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff6e9a"
+			}
+		},
+		{
+			"name": "Storage1",
+			"scope": [
+				"storage.type",
+			],
+			"settings": {
+				"foreground": "#ff7e7e",
+			}
+		},
+		{
+			"name": "Storage2",
+			"scope": [
+				"storage.modifier",
+			],
+			"settings": {
+				"foreground": "#f3d23b",
 			}
 		},
 		{
@@ -100,7 +120,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#C7CD91" // K
+				"foreground": "#ebf77a" // K
 			}
 		},
 		{
@@ -115,16 +135,24 @@
 			}
 		},
 		{
-			"name": "Function, Special Method",
+			"name": "Special Method",
+			"scope": [
+				"keyword.other.special-method"
+			],
+			"settings": {
+				"foreground": "#00914E"  // K
+			}
+		},
+		{
+			"name": "Function",
 			"scope": [
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00914E"  // K
+				"foreground": "#a6e0af"
 			}
 		},
 		{
@@ -133,7 +161,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#F4DDA0"  // K
+				"foreground": "#ffc629"  // K
 			}
 		},
 		{
@@ -159,7 +187,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#58c5ff"
 			}
 		},
 		{
@@ -489,7 +517,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ff5381"
 			}
 		},
 		{
@@ -647,6 +675,18 @@
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
+			}
+		},
+		{
+			"name": "Java - K",
+			"scope": [
+				"keyword.other.import.java",
+				"keyword.other.package.java",
+				"meta.class.identifier.java"
+			],
+			"settings": {
+				"foreground": "#ed783a",
+				"fontStyle": "bold"
 			}
 		}
 	]
