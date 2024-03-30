@@ -10,8 +10,6 @@ Inspired by the cherry blossom season at Jiming Temple, Nanking.
 古寺，城牆，玄武湖，櫻花  
 ancient temple, city wall, Xuanwu Lake, cherry blossom  
 
-![Lakora_logo.png]
-
 ## Links
 Creator: [Pechola L](https://github.com/PecholaL)  
 Repository: [Lakora](https://github.com/PecholaL)  
