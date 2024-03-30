@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#283641",
 		// "editor.foreground": "#E3C297", //v0.0.3
-		"editor.foreground": "#ff89a1",
+		"editor.foreground": "#ff9db0",
 		"editor.selectionBackground": "#50442b",
 		// terminal
 		"terminal.background": "#E0ACA4",
@@ -677,6 +677,9 @@
 				"foreground": "#EEFFFF"
 			}
 		},
+
+
+		// K: detais of java, c, python
 		{
 			"name": "Java - K",
 			"scope": [
@@ -690,9 +693,14 @@
 			}
 		},
 		{
-			"name": "Python - K",
+			"name": "K - key",
 			"scope": [
-				"keyword.control.import.python"
+				"keyword.control.import.python",
+				"keyword.control.directive.define.cpp",
+				"keyword.control.directive.conditional.ifndef.cpp",
+				"keyword.control.directive.endif.cpp",
+				"keyword.control.directive.include.cpp"
+
 			],
 			"settings": {
 				"foreground": "#ed783a",
@@ -700,7 +708,7 @@
 			}
 		},
 		{
-			"name": "Python - K - func",
+			"name": "K - func",
 			"scope": [
 				"meta.function-call.generic.python"
 			],
@@ -709,10 +717,11 @@
 			}
 		},
 		{
-			"name": "Python - K - self",
+			"name": "K - ib",
 			"scope": [
 				"variable.parameter.function.language.special.self.python",
-				"variable.language.special.self.python"
+				"variable.language.special.self.python",
+				"entity.name.namespace.cpp"
 			],
 			"settings": {
 				"foreground": "#fff129",
@@ -720,12 +729,34 @@
 			}
 		},
 		{
-			"name": "Python - K - magic",
+			"name": "K - magic",
 			"scope": [
 				"support.function.magic.python"
 			],
 			"settings": {
 				"foreground": "#a4a1ab",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "K - C",
+			"scope": [
+				"constant.language.false.cpp",
+				"constant.language.true.cpp",
+			],
+			"settings": {
+				"foreground": "#ff8400",
+			}
+		},
+		{
+			"name": "Python - K - C 2",
+			"scope": [
+				"string.quoted.other.lt-gt.include.cpp",
+				"string.quoted.double.include.cpp",
+				"entity.name.function.preprocessor.cpp"
+			],
+			"settings": {
+				"foreground": "#6578f3",
 				"fontStyle": "italic"
 			}
 		}
