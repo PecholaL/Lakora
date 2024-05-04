@@ -4,7 +4,7 @@
 	"icon": "Lakora_logo.png",
 	"displayName": "Lakora",
 	"description": "A plain Chinese-color-scheme for VSC. ",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"engines": {
 		"vscode": "^1.87.0"
 	},

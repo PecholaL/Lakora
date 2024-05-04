@@ -6,7 +6,7 @@
 		"editor.foreground": "#ff9db0",
 		"editor.selectionBackground": "#50442b",
 		// terminal
-		"terminal.background": "#E0ACA4",
+		"terminal.background": "#c48f84",
 		"terminal.foreground": "#912F22",
 		"terminal.selectionForeground": "#912F22",
 		"terminal.tab.activeBorder": "#912F22",
