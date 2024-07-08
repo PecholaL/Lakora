@@ -12,7 +12,7 @@ ancient temple, city wall, Xuanwu Lake, cherry blossom
 
 ## Links
 Creator: [Pechola L](https://github.com/PecholaL)  
-Repository: [Lakora](https://github.com/PecholaL)  
+Repository: [Lakora](https://github.com/PecholaL/Lakora)  
 
 ## Advisement
 If you have any advice, feel free to create an issue via [github](https://github.com/PecholaL/Lakora/issues). :)
