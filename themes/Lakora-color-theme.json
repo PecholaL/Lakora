@@ -24,6 +24,7 @@
 		"sideBarSectionHeader.foreground": "#B17843",
 		"sideBar.foreground": "#feb673",
 		"sideBarTitle.foreground": "#E0ACA4",
+		"sideBar.border":"#e5ad72",
 		// tab
 		"tab.activeBackground": "#283641",
 		"tab.inactiveBackground": "#0a1218",
